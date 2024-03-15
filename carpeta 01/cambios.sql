@@ -1,7 +1,5 @@
-
 catalogo tipo de contrato
 en tipo de contrato quitar texto y poner lov
-
 mti_cxc.cxc_tipo_contrato
 pantalla principal que se muestre el tipo de contrato
 
@@ -15,3 +13,5 @@ al generar laa factura
 antes del metodo de pago
 lista de valores de las cajas que pertenecen
 a esa ubicacion y sean tipo virtual
+
+prueba 1234
